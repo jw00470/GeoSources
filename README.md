@@ -65,5 +65,4 @@ please contact us at geosources@gmail.com</p>
 using a code editor. It has allowed an opportunity to set up a platform where all teachers and learners</br>
 have a "one stop" place to access a variety of resources and lessons to meet their learning goals!</p>
 <p> Last Updated: November 2, 2021</p>
-</body>
-</html>
+
