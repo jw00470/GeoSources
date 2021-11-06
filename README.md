@@ -50,7 +50,7 @@ need, our contact information can be found at the bottom of the page. Let us kno
 		<li><a href="canada.html">Click here</a> to access content for Canada.
 		<li><a href="australia.html">Click here</a> to access content for Australia.
 		<li><a href="finance.html">Click here</a> to access content for personal finance.
-	</ul>
+	
 </li><br><br>
 <p>Thank you for visiting GeoSources! We hope you will find what you need to succeed!
 Teachers: Our website is looking for those who are willing to share their amazing resources and lesson plans
@@ -59,7 +59,7 @@ Join our team of contributors!
 Students: You do not see any resources that you find helpful in studying? Send an email to geosources@gmail.com.</p>
 <p>Our team would love your feedback on the website! If there's anything we can do to improve your experience on this website,
 please contact us at geosources@gmail.com</p>
-<p>We would like to express my gratitude to BBEdit for allowing the chance to create a website from scratch</br>
-using a code editor. It has allowed an opportunity to set up a platform where all teachers and learners</br>
+<p>We would like to express my gratitude to BBEdit for allowing the chance to create a website from scratch
+using a code editor. It has allowed an opportunity to set up a platform where all teachers and learners
 have a "one stop" place to access a variety of resources and lessons to meet their learning goals!</p>
 <p> Last Updated: November 2, 2021</p>
