@@ -26,7 +26,6 @@ ul {
 </head>
 
 <body>
-<h1>GeoSources</h1>
 <p id="Earth"><img src= "earth.gif" alt="Earth"></p>
 <p id="Gif">The gif was downloaded on Giphy with permission for re-use.</p>
 <h2>Welcome to GeoSources! We hope you will find this learning platform useful!</h2> 
